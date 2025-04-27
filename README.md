@@ -1,5 +1,5 @@
 # Final-Task-3
-This portfolio shows how to learn MySQL by building and maintaining a product database. To properly arrange a database using simple SQL, the procedure include building a table, applying constraints, introducing legitimate goods, and changing table columns
+This task shows how to learn MySQL by building and maintaining a product database. To properly arrange a database using simple SQL, the procedure include building a table, applying constraints, introducing legitimate goods, and changing table columns
 
 ## Step 1: Create a Product table
 - Create a table named products
