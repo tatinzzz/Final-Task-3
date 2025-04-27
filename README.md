@@ -50,8 +50,4 @@ This portfolio shows how to learn MySQL by building and maintaining a product da
 ## Sql Code
 ![final3](https://github.com/user-attachments/assets/ce9a90e3-bf61-4f53-a8e5-41c6133b92c8)
 
-
-
-
-
-
+## [BACK TO PORTFOLIO](https://tatinzzz.github.io/EDM-Portfolio/)
